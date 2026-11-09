@@ -1,0 +1,10 @@
+# Kişisel sözlük git'e girmez (sozluk.ornek.txt'den oluşur)
+sozluk.txt
+
+# Derlenen kaydedici
+kaydedici/kaydedici
+__pycache__/
+*.wav
+*.log
+.DS_Store
+

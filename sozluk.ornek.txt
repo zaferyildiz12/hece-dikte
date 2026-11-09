@@ -1,0 +1,30 @@
+# Dikte sözlüğü: her satıra bir terim, doğru yazımıyla.
+# Bulutta Scribe'a "keyterms" olarak, yerelde Whisper'a ipucu olarak gider; Claude da sese benzeyen
+# yanlış kelimeleri bunlarla düzeltir.
+# "yanlış duyulan => doğru" satırı Claude'a ipucu olur (ör. Concert Mode => Consent Mode).
+# Kaydedince bir sonraki diktede kendiliğinden yeniden yüklenir.
+# Bu dosya örnektir; ilk çalıştırmada sozluk.txt olarak kopyalanır ve sozluk.txt git'e girmez.
+
+# Öğrenilenler (otomatik; yanlışsa satırı sil)
+
+# Sık yanlış duyulanlar
+Concert Mode, Konsent Mod => Consent Mode
+GTA, GT => GTM
+ivent, iventi => event, event'i
+alt tire
+
+# Araçlar ve terimler
+GA4
+GTM
+Google Tag Manager
+Looker Studio
+Search Console
+BigQuery
+event
+trigger
+tag
+dataLayer
+Consent Mode
+Slack
+Notion
+Claude
